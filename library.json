@@ -1,0 +1,21 @@
+{
+  "name": "ADS1148",
+  "keywords": "ADC, ADS, ADS1148",
+  "description": "An Arduino library for the SPI interface Texas Instruments ADS1148, 16-bit ADC.",
+  "authors":
+  [
+    {
+      "name": "Gabriel Pool",
+      "email": "gabriel.jesus.pool@gmail.com",
+      "maintainer": true
+    }    
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/gpoolb/ads1148"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "espressif"
+}
